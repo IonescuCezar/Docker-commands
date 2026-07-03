@@ -32,3 +32,6 @@ Commands:<br />
 &nbsp;&nbsp;&nbsp; • docker **stop** { short_id_container }
 
 &nbsp;&nbsp;&nbsp; • docker **start** { short_id_container }
+
+&nbsp;&nbsp;&nbsp; • docker **run** **--interactive** **--tty** { image_name }**:**{ image_tag }<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; docker **run** **-it** { image_name }**:**{ image_tag }
